@@ -8,5 +8,6 @@ The function CalculateDeals is designed to process a collection of trades and re
 
 Inputs
 IEnumerable<MyTrade> trades: A collection of trade records.
+
 Output
 IResultResponse<Deals>: A result response containing the calculated deals.
